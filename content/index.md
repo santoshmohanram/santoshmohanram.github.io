@@ -1,7 +1,16 @@
 ---
-title: Welcome to Quartz 4
+title: Home
+---
+enableToc: false
+# Rings of Thought
+
+Welcome. This is my little Saturn — a place to orbit around  
+mathematics, science, memory, and the quiet obsessions that refuse to leave my mind.
+
+Start here → **[Why I Write](/why-i-write)**
+
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+## Recent Writing
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+- [[why-i-write]]

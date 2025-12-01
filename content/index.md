@@ -1,7 +1,7 @@
 ---
 title: Home
----
 enableToc: false
+---
 # Rings of Thought
 
 Welcome. This is my little Saturn — a place to orbit around  

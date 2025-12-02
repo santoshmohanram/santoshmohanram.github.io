@@ -5,10 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // Optional: configure giscus if you want comments
+        // Uncomment and fill in your details
+        // repo: 'username/repo',
+        // repoId: 'your-repo-id',
+        // category: 'Announcements',
+        // categoryId: 'your-category-id',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/sosiristseng/template-quartz",
+      GitHub: "https://github.com/santoshmohanram",
+      LinkedIn: "https://linkedin.com/in/santoshmohanram",
     },
   }),
 }
@@ -37,16 +50,61 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Navigate",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+      sortFn: (a, b) => {
+        // Folders first, then files
+        if ((!a.file && !b.file) || (a.file && b.file)) {
+          return a.displayName.localeCompare(b.displayName)
+        }
+        return a.file ? 1 : -1
+      },
+    })),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
+    Component.Graph({
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 1.1,
+        repelForce: 0.5,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.6,
+        opacityScale: 1,
+        showTags: true,
+        removeTags: [],
+      },
+      globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        scale: 0.9,
+        repelForce: 0.5,
+        centerForce: 0.3,
+        linkDistance: 30,
+        fontSize: 0.5,
+        opacityScale: 1,
+        showTags: true,
+        removeTags: [],
+      },
+    }),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(), 
+    Component.ArticleTitle(), 
+    Component.ContentMeta()
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -59,6 +117,18 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Navigate",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    })),
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recent Notes",
+      limit: 5,
+      showTags: true,
+    })),
+  ],
 }

@@ -21,31 +21,33 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-	title: "Playfair Display",
-        header: "Playfair Display",
-        body: "Inter",
+        title: "Merriweather",
+        header: "Merriweather",
+        body: "Open Sans",
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf5f0",
-          lightgray: "#e2e0db",
-          gray: "#4b5563",
-          darkgray: "#111827",
-          secondary: "#b38b6d",
-          highlight: "rgba(179, 139, 109, 0.12)",
-          textHighlight: "#fff4ce",
+          light: "#fdfbf7",           // Warm cream white
+          lightgray: "#e8dcc8",       // Soft golden beige
+          gray: "#5b6b7a",            // Muted slate
+          darkgray: "#1e3a5f",        // Deep navy blue
+          dark: "#0f2744",            // Darker navy for text
+          secondary: "#2563a8",       // Royal blue
+          tertiary: "#c9941d",        // Rich golden
+          highlight: "rgba(201, 148, 29, 0.15)",  // Golden highlight
+          textHighlight: "#fff9e6",   // Soft yellow highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1a1e2e",           // Deep midnight blue
+          lightgray: "#2d3748",       // Charcoal blue
+          gray: "#7a8ea4",            // Soft blue-gray
+          darkgray: "#cbd5e0",        // Light blue-gray
+          dark: "#e8eef5",            // Almost white
+          secondary: "#5b9bd5",       // Lighter royal blue
+          tertiary: "#f4c542",        // Bright golden yellow
+          highlight: "rgba(91, 155, 213, 0.18)", // Blue highlight
+          textHighlight: "rgba(244, 197, 66, 0.25)", // Golden highlight
         },
       },
     },
@@ -54,8 +56,6 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        // you can add 'git' here for last modified from Git
-        // if you do rely on git for dates, ensure defaultDateType is 'modified'
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
@@ -87,8 +87,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      // Plugin.CustomOgImages(),
     ],
   },
 }

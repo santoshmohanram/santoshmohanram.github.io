@@ -5,19 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // Optional: configure giscus if you want comments
-        // Uncomment and fill in your details
-        // repo: 'username/repo',
-        // repoId: 'your-repo-id',
-        // category: 'Announcements',
-        // categoryId: 'your-category-id',
-      }
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/santoshmohanram",
@@ -67,34 +55,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.Backlinks()),
-    Component.Graph({
-      localGraph: {
-        drag: true,
-        zoom: true,
-        depth: 1,
-        scale: 1.1,
-        repelForce: 0.5,
-        centerForce: 0.3,
-        linkDistance: 30,
-        fontSize: 0.6,
-        opacityScale: 1,
-        showTags: true,
-        removeTags: [],
-      },
-      globalGraph: {
-        drag: true,
-        zoom: true,
-        depth: -1,
-        scale: 0.9,
-        repelForce: 0.5,
-        centerForce: 0.3,
-        linkDistance: 30,
-        fontSize: 0.5,
-        opacityScale: 1,
-        showTags: true,
-        removeTags: [],
-      },
-    }),
   ],
 }
 

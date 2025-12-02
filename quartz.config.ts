@@ -28,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fdfbf7",           // Warm cream white
-          lightgray: "#e8dcc8",       // Soft golden beige
+          light: "#fff8e7",           // Rich warm cream/golden white
+          lightgray: "#ffd89b",       // Vibrant golden beige
           gray: "#5b6b7a",            // Muted slate
           darkgray: "#1e3a5f",        // Deep navy blue
           dark: "#0f2744",            // Darker navy for text
           secondary: "#2563a8",       // Royal blue
-          tertiary: "#c9941d",        // Rich golden
-          highlight: "rgba(201, 148, 29, 0.15)",  // Golden highlight
+          tertiary: "#d4a017",        // Bright metallic gold
+          highlight: "rgba(212, 160, 23, 0.20)",  // Strong golden highlight
           textHighlight: "#fff9e6",   // Soft yellow highlight
         },
         darkMode: {
-          light: "#1a1e2e",           // Deep midnight blue
-          lightgray: "#2d3748",       // Charcoal blue
+          light: "#1a2332",           // Rich midnight blue with warmth
+          lightgray: "#2d4059",       // Deep blue-gray
           gray: "#7a8ea4",            // Soft blue-gray
           darkgray: "#cbd5e0",        // Light blue-gray
           dark: "#e8eef5",            // Almost white
-          secondary: "#5b9bd5",       // Lighter royal blue
-          tertiary: "#f4c542",        // Bright golden yellow
-          highlight: "rgba(91, 155, 213, 0.18)", // Blue highlight
-          textHighlight: "rgba(244, 197, 66, 0.25)", // Golden highlight
+          secondary: "#4a90e2",       // Vibrant blue
+          tertiary: "#f5c542",        // Bright golden yellow
+          highlight: "rgba(74, 144, 226, 0.22)", // Strong blue highlight
+          textHighlight: "rgba(245, 197, 66, 0.28)", // Strong golden highlight
         },
       },
     },

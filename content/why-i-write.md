@@ -2,7 +2,7 @@
 title: Why I Write
 tags:
 enableToc: false
-date: 2024-11-30
+date: 2025-11-30
 ---
 I write because as my attempt to create something that can **outlive me** —  
 a permanent home for ideas, notes, questions, reflections, and experiments.

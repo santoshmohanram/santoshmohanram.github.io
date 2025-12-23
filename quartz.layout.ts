@@ -51,11 +51,6 @@ export const defaultContentPageLayout: PageLayout = {
         return a.file ? 1 : -1
       },
     })),
-    Component.MobileOnly(Component.RecentNotes({
-      title: "All Articles",
-      limit: 10,
-      showTags: false,
-    })),
   ],
   right: [
     Component.DesktopOnly(Component.RecentNotes({
@@ -63,8 +58,13 @@ export const defaultContentPageLayout: PageLayout = {
       limit: 10,
       showTags: true,
     })),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Backlinks()),
+  ],
+  afterBody: [
+    Component.MobileOnly(Component.RecentNotes({
+      title: "All Articles",
+      limit: 10,
+      showTags: true,
+    })),
   ],
 }
 

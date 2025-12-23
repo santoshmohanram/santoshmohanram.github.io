@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       title: "Navigate",
       folderClickBehavior: "collapse",
       folderDefaultState: "collapsed",
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         }
         return a.file ? 1 : -1
       },
-    })),
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -77,18 +77,18 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       title: "Navigate",
       folderClickBehavior: "collapse",
       folderDefaultState: "collapsed",
       useSavedState: true,
-    })),
+    }),
   ],
   right: [
-    Component.DesktopOnly(Component.RecentNotes({
-      title: "Recent Notes",
-      limit: 5,
+    Component.RecentNotes({
+      title: "All Articles",
+      limit: 10,
       showTags: true,
-    })),
+    }),
   ],
 }

@@ -1,6 +1,6 @@
 ---
-title: "Why I Write"
-tags: [about, legacy]
+title: Why I Write
+tags:
 enableToc: false
 ---
 I write because as my attempt to create something that can **outlive me** —  

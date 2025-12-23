@@ -22,7 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showReadingTime: true }),
     Component.TagList(),
   ],
   left: [
@@ -72,8 +72,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(), 
-    Component.ArticleTitle(), 
-    Component.ContentMeta()
+    Component.ArticleTitle(),
   ],
   left: [
     Component.PageTitle(),

@@ -1,4 +1,6 @@
-
+---
+date: 2025-12-02
+---
 Every so often, I try to step back and examine the quiet assumptions that shape how I see the world, the internal compass points that help me make sense of randomness, people, choices, and my own reactions to life. Over time, a handful of ideas have stayed with me. They don’t form a philosophy as much as a set of working principles: adjustable, lived-in, and constantly reinterpreted as life unfolds.
 
 These are some of my core tenets.

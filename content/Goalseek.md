@@ -1,3 +1,6 @@
+---
+date: 2025-12-23
+---
 “What are you optimising for?” is one of the most important questions to ask whenever you are working on something with multiple constraints, especially when those constraints cannot all be optimized at the same time.
 
 Most conflicts, frustrations, and inner turmoil come from optimising for the wrong thing, or worse, trying to optimise for everything at once.

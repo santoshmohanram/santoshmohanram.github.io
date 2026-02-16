@@ -1,0 +1,38 @@
+
+The ceiling fan in Vikki’s bedroom made a soft, tired circle in the air, the only sound that stayed with him through the long afternoons. At eighty, the house had grown larger than it used to be. The 2BHK flat—once noisy with schoolbags, pressure cooker whistles, and arguments about television volume—now held its breath most days. So every morning, like clockwork, Vikki would button up his neatly ironed shirt, comb back the thin silver of his hair, and walk slowly to the neighbourhood barber shop.
+
+**The Neighbourhood Shop**
+
+The bell above the shop door gave a polite jingle when he entered. “*Arre, Vikki uncle aa gaye!”* Ali would announce, even if he had seen him through the window already.Ali lived in the narrow room behind the shop. His wife and two daughters were in Delhi with his parents; he sent money home every month and spoke to them on video calls at night. The shop was both his workplace and his address. A single cot, a steel trunk, and a kettle tucked behind the curtain told the story of his in-between life. 
+
+Vikki would lower himself into his favourite chair—the one slightly to the left of the mirror, where the afternoon light fell kindly on his face. Ali would warm a little moisturizer between his palms and massage it into Vikki’s arms, his forehead, sometimes even his shins if they were particularly dry. *“Skin must be cared for, Uncle,”* Ali would say with mock seriousness. *“And dignity must be maintained,”* Vikki would reply, closing his eyes as if submitting to a royal ritual. 
+
+He would sip chai from a small glass tumbler. Sometimes he dozed off while Ali moved around him—snip, snip of scissors, the whirr of clippers, the rhythmic swish of the shaving brush on another man’s face. Vikki waited patiently while Ali finished with other customers. There was no hurry. The shop was not a service to him; it was shelter. 
+
+On evenings when the silence of his flat felt too heavy, Vikki would clear his throat and say casually, *“Ali, if you are not busy tonight… come over. We’ll watch something old. Black and white. Proper cinema.”* Ali never refused. The shop would close early; the kettle would be switched off. They would sit cross-legged on the floor at Vikki’s place, the television flickering with songs from another era. Old Songs, Old Complaints. They watched heroes with perfect hair and heroines who sang through heartbreak. They argued about politics without conviction, despairing theatrically about the world. *“Country is finished,”* Ali would sigh. *“The world itself is finished since long,”* Vikki would wave him off. *“Yet here we are. Drinking tea.”* They laughed easily, like men who had no need to impress each other. 
+
+One afternoon, the shop was unusually crowded. A well-dressed sixty-year-old man sat stiffly in the barber’s chair. *“Uncle, how short?”* Ali asked politely. The man stiffened. *“Don’t call me uncle. Do I look like your uncle?”* For ten full minutes, as Ali trimmed carefully, the man berated him. About respect. About age. About how people these days had no manners. Vikki sat in his favourite chair, trousers rolled slightly above his ankles, waiting for Ali to apply moisturizer to his legs. He listened quietly, eyes half closed. Finally, he cleared his throat. *“My friend,”* he called out, his voice soft but steady, *“only an old uncle will be so irritated at being called an uncle.”* The shop fell silent. Then a snort. Then laughter.Vikki continued, *“If you want him to call you something specific, tell him nicely and Ali will do so. Life’s too short to be fuming. Especially over a haircut.”* Even the ceiling fan seemed to chuckle. The offended man said nothing more. When the haircut ended, he stood, adjusted his collar, and muttered a subdued, “Thank you,” before leaving. Ali caught Vikki’s eye in the mirror. There was gratitude there—and something deeper.
+
+**The Calls from London**
+
+Samir called when he could. The time difference meant it was often late evening in India. *“Papa, you should come here,”* Samir insisted one night, his voice tight with exhaustion. *“London has better facilities. Better hospitals. You shouldn’t live alone.”* *“I am not alone,”* Vikki would say, glancing at the empty sofa. *“You come home. Your room is still here.”* There would be a pause. Samir would be looking at his calendar, Vikki knew, calculating leave days against project deadlines. *“Soon, Papa. I promise. Maybe Diwali.”* *“Yes, yes. Diwali,”* Vikki would say gently. *“Or the one after.”* They both knew how these promises accumulated like dust on unused furniture. But they loved each other, so they kept making them. Sometimes Samir would ask, *“Are you eating properly? Taking your medicines?”* And Vikki would answer, *“Ali checks on me. Good boy. Reminds me of you at that age.”* Samir would smile at that, even though it carried a small sting—that a barber was doing what a son should do. But he was grateful too. Grateful and guilty in equal measure.
+
+**The Quiet Morning**
+
+One morning, the shop bell did not ring.Ali waited until noon before calling Vikki’s phone. It rang and rang.By evening, Samir, unable to reach his father, called a neighbour and requested them to check. The neighbour found Vikki in his bed, face calm, hands resting gently on his stomach, as though he had simply decided to nap a little longer.He had passed in his sleep. The house felt smaller at the funeral. Ali stood near the doorway, eyes red, hands trembling. He had shaved Vikki just a day before. The faint smell of the same moisturizer lingered in his memory. Samir arrived from London, hollow-eyed and stunned. He moved through the rituals mechanically—lighting incense, accepting condolences from distant relatives who had never visited, signing papers with a hand that didn’t feel like his own. Ali stayed close, silent. When someone asked who he was, Samir answered before anyone else could: *“Family.”* 
+
+**The Will**
+
+A week later, in the quiet of the same 2BHK, Samir opened the will. There were practical instructions. Bank accounts. Small donations to the temple. And then: The extensive collection of old Hindi song recordings—painstakingly catalogued over decades—was left to Ali.
+
+The 2BHK flat, too.
+
+A note in Vikki’s steady handwriting read: *Ali, this house has been lonely long enough. Bring your family from Delhi. Let there be noise again. Let someone complain about the television volume. Let your daughters do their homework at the dining table where Samir used to do his.*
+
+Samir was specifically left a shaving set and two bottles of moisturizer. Another line, underlined: *Caring for someone’s skin is sometimes easier than caring for their heart. But both must be done regularly. I know you tried, beta. Distance is cruel to the best intentions.*
+
+Samir read it twice before looking up at Ali, who stood near the window, wiping his eyes with the back of his hand. *“It’s yours,”* Samir said softly. Ali shook his head. *“No, bhaiya… I can’t…”“You already were,”* Samir said, his voice breaking slightly. *“You were here. You did what I couldn’t.”* He stepped forward and pulled Ali into an embrace—two men holding onto each other in a flat that had witnessed too many goodbyes. “*Thank you,”* Samir whispered. Then, with a faint smile through tears, he added, *“Thank you, brother.”*
+
+Ali’s voice was muffled against his shoulder. *“He talked about you all the time, bhaiya. He was so proud. So proud.”* 
+
+Outside, somewhere down the lane, a barber shop bell rang as someone walked in.And in that small flat, for the first time since Vikki’s passing, the silence felt less permanent.
